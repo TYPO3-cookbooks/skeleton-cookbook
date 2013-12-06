@@ -1,6 +1,6 @@
 name             "skeleton"
-maintainer       "YOUR NAME"
-maintainer_email "YOUR EMAIL"
+maintainer       " / TYPO3 Association"
+maintainer_email "@typo3.org"
 license          "Apache 2.0"
 description      "Installs/configures something"
 version          "0.1.0"
